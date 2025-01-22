@@ -1,0 +1,18 @@
+cd - change directory
+cd . - current directory
+cd .. - get back
+ls - see what contains 
+mkdir - make directory
+clear - clear all commands
+pwd - present working directory / shows your current way
+touch - create file
+nano - text editor
+ctrl + x in nano = save file
+command + L = history 
+code - opens VSC 
+touch .file.txt - create hidden file
+
+option + Z - перенести строку
+command + / - comment line
+
+command + click on smh
