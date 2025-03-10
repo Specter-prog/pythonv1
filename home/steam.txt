@@ -16,3 +16,5 @@ option + Z - перенести строку
 command + / - comment line
 
 command + click on smh
+
+
