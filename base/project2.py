@@ -15,7 +15,7 @@ while True:
         name = phone.find('img').get('alt')
         price = phone.find('div', class_='listbox_price').text.strip()
         image = phone.find('img').get('src')
-        phone_data.append({'Model Name': name, 'Price': price, 'Image': image})
+        phone_data.append({'Model Name': name, 'Price': price, 'Image': url + image})
 
     with open('phones.json', 'w') as jsonfile:
         json.dump(phone_data, jsonfile, indent = 4, ensure_ascii = False)
