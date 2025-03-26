@@ -4,7 +4,7 @@ import json
 from time import sleep
 
 while True:
-    url = 'https://www.kivano.kg/mobilnye-telefony'
+    url = 'https://www.kivano.kg'
     response = requests.get(url)
     html = response.text
     soup = bs(html, 'lxml')
