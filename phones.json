@@ -1,102 +1,102 @@
 [
     {
-        "Model Name": "Сотовый телефон Xiaomi Poco X6 12/512GB черный",
-        "Price": "25720 сом",
-        "Image": "/images/product/132665/1707068357_33109300.jpg"
-    },
-    {
-        "Model Name": "Сотовый телефон Apple iPhone 16e 128GB черный",
-        "Price": "62560 сом",
-        "Image": "/images/product/146643/1742313880_03689100.jpg"
-    },
-    {
-        "Model Name": "Сотовый телефон Apple iPhone 16e 128GB белый",
-        "Price": "62560 сом",
-        "Image": "/images/product/146644/1742314056_57995100.jpg"
-    },
-    {
         "Model Name": "Сотовый телефон Xiaomi Redmi Note 13 8/256GB голубой",
-        "Price": "15760 сом",
+        "Price": "15710 сом",
         "Image": "/images/product/132096/1705999822_48551100.jpg"
     },
     {
         "Model Name": "Сотовый телефон Samsung Galaxy S23 Ultra 12/512GB зеленый",
-        "Price": "84870 сом",
+        "Price": "84680 сом",
         "Image": "/images/product/118784/1679158987_31384800.jpg"
     },
     {
         "Model Name": "Сотовый телефон Samsung Galaxy A06 4/128GB золотой",
-        "Price": "12510 сом",
+        "Price": "12480 сом",
         "Image": "/images/product/142852/1733933736_20176200.jpg"
     },
     {
         "Model Name": "Сотовый телефон Xiaomi Redmi 13 6/128GB черный",
-        "Price": "12420 сом",
+        "Price": "12400 сом",
         "Image": "/images/product/137477/1717998704_22241700.png"
     },
     {
         "Model Name": "Сотовый телефон Samsung Galaxy A06 4/128GB голубой",
-        "Price": "12510 сом",
+        "Price": "12480 сом",
         "Image": "/images/product/142853/1733933611_45103200.jpg"
     },
     {
         "Model Name": "Сотовый телефон Samsung Galaxy A16 4/128GB серый",
-        "Price": "15760 сом",
+        "Price": "15630 сом",
         "Image": "/images/product/143365/1735485479_63822000.jpg"
     },
     {
+        "Model Name": "Сотовый телефон Xiaomi Redmi 13 6/128GB розовый",
+        "Price": "12570 сом\n-1%\n\n12400 сом",
+        "Image": "/images/product/137478/1717998795_95205300.png"
+    },
+    {
         "Model Name": "Сотовый телефон Samsung Galaxy A06 4/128GB черный",
-        "Price": "12510 сом",
+        "Price": "12480 сом",
         "Image": "/images/product/142854/1733933749_61913700.jpg"
     },
     {
         "Model Name": "Сотовый телефон Samsung Galaxy A16 4/128GB зеленый",
-        "Price": "15760 сом",
+        "Price": "15630 сом",
         "Image": "/images/product/143366/1735485591_29490900.jpg"
     },
     {
+        "Model Name": "Сотовый телефон Xiaomi Redmi 13 6/128GB золотистый",
+        "Price": "12570 сом\n-1%\n\n12400 сом",
+        "Image": "/images/product/137479/1717999120_88637600.png"
+    },
+    {
         "Model Name": "Сотовый телефон Samsung Galaxy A06 6/128GB черный",
-        "Price": "13470 сом",
+        "Price": "13440 сом",
         "Image": "/images/product/142855/1733934001_18741400.jpg"
     },
     {
         "Model Name": "Сотовый телефон Samsung Galaxy A16 4/128GB черный",
-        "Price": "15760 сом",
+        "Price": "15630 сом",
         "Image": "/images/product/143367/1735485894_91967100.jpg"
     },
     {
+        "Model Name": "Сотовый телефон Xiaomi Redmi 13 6/128GB голубой",
+        "Price": "12570 сом\n-1%\n\n12400 сом",
+        "Image": "/images/product/137480/1717999227_70165700.png"
+    },
+    {
         "Model Name": "Сотовый телефон Google Pixel 9 256GB розовый",
-        "Price": "73410 сом\n-4%\n\n70610 сом",
+        "Price": "73240 сом\n-4%\n\n70450 сом",
         "Image": "/images/product/140040/1725121434_37273100.jpg"
     },
     {
         "Model Name": "Сотовый телефон Samsung Galaxy A06 6/128GB золотой",
-        "Price": "13470 сом",
+        "Price": "13440 сом",
         "Image": "/images/product/142856/1733934040_58889300.jpg"
     },
     {
         "Model Name": "Сотовый телефон Samsung Galaxy A16 8/256GB зеленый",
-        "Price": "19860 сом",
+        "Price": "19820 сом",
         "Image": "/images/product/143368/1735486184_47816700.jpg"
     },
     {
         "Model Name": "Сотовый телефон Google Pixel 9 256GB черный",
-        "Price": "73410 сом\n-4%\n\n70610 сом",
+        "Price": "73240 сом\n-4%\n\n70450 сом",
         "Image": "/images/product/140041/1725121446_13864400.jpg"
     },
     {
         "Model Name": "Сотовый телефон Samsung Galaxy A06 6/128GB голубой",
-        "Price": "13470 сом",
+        "Price": "13440 сом",
         "Image": "/images/product/142857/1733934084_23193600.jpg"
     },
     {
         "Model Name": "Сотовый телефон Samsung Galaxy A16 8/256GB серый",
-        "Price": "19860 сом",
+        "Price": "19820 сом",
         "Image": "/images/product/143369/1735486267_10664900.jpg"
     },
     {
         "Model Name": "Сотовый телефон Xiaomi Redmi Note 13 Pro 8/256GB черный",
-        "Price": "20560 сом",
+        "Price": "20520 сом",
         "Image": "/images/product/132106/1706001917_61615100.jpg"
     }
 ]

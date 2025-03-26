@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup as bs
 import requests
 import json
-import time
+from time import sleep
 
 url = 'https://www.kivano.kg/mobilnye-telefony'
 response = requests.get(url)
@@ -18,5 +18,4 @@ for phone in phones:
 
 with open('phones.json', 'w') as jsonfile:
     json.dump(phone_data, jsonfile, indent = 4, ensure_ascii = False)
-time.sleep(3600)
-print('Готово')
+sleep(3600)
